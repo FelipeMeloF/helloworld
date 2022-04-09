@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/felip/Downloads/csgoapp/app/src/main/res/layout/activity_main.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/felip/Downloads/csgoapp/app/src/main/res/layout/players.xml" value="0.25" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/cardd.xml" value="0.1415" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/frame_11.xml" value="0.24" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/frame_4.xml" value="0.24" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/frame_7.xml" value="0.24" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/left.xml" value="0.191" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/match_agora.xml" value="0.171" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/match_detai.xml" value="0.191" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/match_time.xml" value="0.1745" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/rectangle_4.xml" value="0.24" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/rectangle_7.xml" value="0.24" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/team_logo.xml" value="0.191" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/team_logo1.xml" value="0.24" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/team_logo2.xml" value="0.24" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/tem_logo.xml" value="0.191" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/drawable/vector.xml" value="0.191" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/layout-v31/rows.xml" value="0.5" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/layout/activity_splash_screen.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/layout/players.xml" value="0.5" />
+        <entry key="..\:/Users/felip/csgoapp/app/src/main/res/layout/rows.xml" value="0.5" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.332" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/drawable/cardd.xml" value="0.222" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/drawable/ic_launcher_background.xml" value="0.332" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/drawable/league_logo.xml" value="0.2315" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/drawable/line.xml" value="0.2315" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/drawable/match_agora.xml" value="0.249" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/drawable/match_time.xml" value="0.3435" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/drawable/match_time_red.xml" value="0.2505" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/drawable/team_logo1.xml" value="0.2325" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/drawable/team_logo2.xml" value="0.2325" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/layout-night/home_load.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/layout-v31/rows.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/layout/activity_testapi.xml" value="0.3072916666666667" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/layout/activity_testapi2.xml" value="0.3072916666666667" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/layout/content_testapi.xml" value="0.12183383991894631" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/layout/fragment_first.xml" value="0.12183383991894631" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/layout/fragment_second.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/layout/home_load.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/layout/recycler_view_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/layout/rows.xml" value="0.75" />
+        <entry key="..\:/Users/joaom/AndroidStudioProjects/helloworld/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

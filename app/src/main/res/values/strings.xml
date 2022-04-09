@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">helloworld</string>
+    <string name="title_activity_testapi">testapi</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- strings.xml -->
+    <string name="team">Time 1</string>
+    <string name="vs">vs</string>
+    <string name="partidas">Partidas</string>
+    <string name="league_seri">League + serie</string>
+    <string name="seg_16_00">Hoje, 21:00</string>
+
+
+    <string name="nickname">Nickname</string>
+    <string name="nome_jogado">Nome Jogador</string>
+    <string name="title">League + serie</string>
+    <string name="team1">Time 1</string>
+    <string name="team2">Time 2</string>
+    <string name="dia">Hoje, 21:00</string>
+</resources>
